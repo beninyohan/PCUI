@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "PCUI – Nava Chacharbunda",
-    "slug": "pcui-nava-chacharbunda",
+    "name": "PCUI",
+    "slug": "pcui",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/logo.png",
