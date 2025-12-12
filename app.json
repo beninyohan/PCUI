@@ -1,0 +1,19 @@
+{
+  "expo": {
+    "name": "PCUI – Nava Chacharbunda",
+    "slug": "pcui-nava-chacharbunda",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/logo.png",
+    "android": {
+      "package": "com.pcui.nava_chacharbunda",
+      "versionCode": 1,
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/logo.png",
+        "backgroundColor": "#071B2D"
+      }
+    },
+    "updates": { "fallbackToCacheTimeout": 0 },
+    "assetBundlePatterns": ["**/*"]
+  }
+}
